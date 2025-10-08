@@ -26,7 +26,7 @@ Certainly, let's delve deeper into the `file`, `remote-exec`, and `local-exec` p
 
    In this example, the `file` provisioner copies the `localfile.txt` from the local machine to the `/path/on/remote/instance/file.txt` location on the AWS EC2 instance using an SSH connection.
 
-2. **remote-exec Provisioner:**
+2.. ***remote-exec Provisioner:**
 
    The `remote-exec` provisioner is used to run scripts or commands on a remote machine over SSH or WinRM connections. It's often used to configure or install software on provisioned instances.
 

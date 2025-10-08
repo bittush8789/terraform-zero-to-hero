@@ -32,7 +32,7 @@ Understand the importance of Terraform state files. Learn about desired and curr
 
 ## Day 2: Advanced Terraform Configuration
 
-#### Understanding Providers and Resources
+## Understanding Providers and Resources
 
 Deepen your knowledge of providers and resources. Explore the role of different providers for various cloud platforms and understand how resources define infrastructure components.
 
